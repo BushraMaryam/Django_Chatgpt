@@ -1,5 +1,5 @@
-**CLASS: 07 TASK: 01
-Creation of AWS Instance**
+**CLASS: 07 TASK: 01**
+**Creation of AWS Instance**
 ![image](https://github.com/BushraMaryam/Django_Chatgpt/assets/80852494/09a43150-0a82-4690-b0f9-47effc37d225)
 
 
